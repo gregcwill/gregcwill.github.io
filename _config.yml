@@ -8,13 +8,13 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : Greg C Will.com
+tagline: The selective rememberings of a Controller gone Coder.
 author :
   name : Greg Williams
   email : blah@email.test
-  github : gregcwill
-  twitter : gregcwill
+  github : https://github.com/gregcwill
+  twitter : https://twitter.com/gregcwill
   feedburner :
 
 # The production_url is only used when full-domain names are needed
