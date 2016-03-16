@@ -13,6 +13,10 @@
 /*.navbar .nav {
   float: right; }*/
 
+.page-header {
+  margin: auto;
+}
+
 /* Heading Colors */
 h1 {
   font-family: "Lora", serif;
@@ -33,12 +37,6 @@ body {
 #footer {
   background-color: #181818;
 }
-
-.page-header {
-  margin: auto;
-  color: #2b2b2b;
-}
-
 
 /* posts index */
 .post > h3.title {
