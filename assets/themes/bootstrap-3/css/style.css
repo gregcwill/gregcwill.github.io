@@ -13,12 +13,23 @@
 /*.navbar .nav {
   float: right; }*/
 
-/* Jekyll Bootstrap Colors */
-h1, h2, h3, h4 {
-  color: #f22430;
+/* Heading Colors */
+h1 {
+  font-family: "Lora", serif;
+  color: #E2B570;
+}
+
+h2, h3, h4 {
+  font-family: "Lora", serif;
+  color: #fff;
+}
+
+body {
+  background: #80725d;
+  font-family:"proxima-nova-1", sans-serif;
 }
 #footer {
-  background-color: #1d87da;
+  background-color: #80725d;
 }
 
 
