@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dev Blog
+title: Welcome to my Dev Blog!
 ---
 
 ## Recent Posts
