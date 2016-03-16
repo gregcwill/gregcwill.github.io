@@ -14,7 +14,9 @@
   float: right; }*/
 
 .page-header {
-  margin: auto;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 0px;
 }
 
 /* Heading Colors */
