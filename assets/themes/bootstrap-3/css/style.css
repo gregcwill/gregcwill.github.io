@@ -13,7 +13,7 @@
 /*.navbar .nav {
   float: right; }*/
 
-.navbar-default {
+.navbar navbar-default {
   display: center;
   text-transform: uppercase;
 }
