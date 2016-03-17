@@ -1,6 +1,6 @@
 ---
 layout: page
-title: gregcwill development blog
+title: Development Blog
 ---
 
 ### Recent Posts
