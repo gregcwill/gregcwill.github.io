@@ -15,18 +15,16 @@
 
 .page-header {
   text-align: center;
-  text-transform: uppercase;
   padding: 0px;
 }
 
 /* Heading Colors */
 h1 {
-  font-family: "Lora", serif;
   color: #E2B570;
 }
 
 h2, h3, h4 {
-  font-family: "Lato", serif;
+  font-family: 'Montserrat', sans-serif;
   text-transform: uppercase;
   color: #fff;
 }
