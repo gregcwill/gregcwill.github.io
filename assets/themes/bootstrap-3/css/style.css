@@ -14,7 +14,7 @@
   float: right; }*/
 
 .navbar-default {
-  display: center;
+  position: relative;
   text-transform: uppercase;
 }
 
