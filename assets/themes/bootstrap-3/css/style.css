@@ -13,8 +13,9 @@
 /*.navbar .nav {
   float: right; }*/
 
-.navbar .navbar-default {
+.navbar-default {
   display: center;
+  text-transform: uppercase;
 }
 
 .page-header {
