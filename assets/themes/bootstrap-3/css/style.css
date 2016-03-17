@@ -20,6 +20,7 @@
 
 /* Heading Colors */
 h1 {
+  font-family: 'Montserrat', sans-serif;
   color: #E2B570;
 }
 
@@ -30,8 +31,8 @@ h2, h3, h4 {
 }
 
 body {
-  background: #181818;
-  font-family:"proxima-nova-1", sans-serif;
+  background: #3c3c3c;
+  font-family:'Montserrat', sans-serif;
 }
 
 #footer {
