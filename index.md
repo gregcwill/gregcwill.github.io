@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Development Blog
+tagling: Supporting tagline
 ---
 
 ### Recent Posts
