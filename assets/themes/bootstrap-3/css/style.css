@@ -14,7 +14,8 @@
   float: right; }*/
 
 .navbar-default {
-  position: relative;
+  background-color:#e7e7e7;
+  color: #fff;
 }
 
 .page-header {
