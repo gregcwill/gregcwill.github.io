@@ -13,7 +13,7 @@
 /*.navbar .nav {
   float: right; }*/
 
-.navbar-inverse .navbar-text {
+.navbar-inverse .navbar-text<li<a {
 	color: #fff;
 }
 
