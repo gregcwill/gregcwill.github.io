@@ -13,10 +13,12 @@
 /*.navbar .nav {
   float: right; }*/
 
-.navbar-default {
-  background-color:#e7e7e7;
-  color: #fff;
-  margin: auto;
+.navbar-inverse .navbar-text {
+	color: #fff;
+}
+
+.navbar-inverse .navbar-brand {
+	color:#fff;
 }
 
 .page-header {
