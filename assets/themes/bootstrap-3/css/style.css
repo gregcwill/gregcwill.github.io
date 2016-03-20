@@ -14,6 +14,7 @@
   float: right; }*/
 
 .page-header {
+  font-family: font-family: 'Droid Serif', serif;
   text-align: center;
   text-transform: uppercase;
   margin: 0px, 0px, 0px, 0px;
@@ -21,12 +22,12 @@
 }
 
 /* Heading Colors */
-h1, h2{
+h1 {
   font-family: font-family: 'Droid Serif', serif;
   color: #E2B570;
 }
 
-h3, h4 {
+h2, h3, h4 {
   font-family: 'Montserrat', sans-serif;
   text-transform: uppercase;
   color: #fff;
