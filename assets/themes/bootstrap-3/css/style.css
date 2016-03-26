@@ -13,6 +13,30 @@
 /*.navbar .nav {
   float: right; }*/
 
+/* Customization to Bootstrap Nav */
+.navbar.navbar-inverse {
+  text-align: center;
+  line-height: 0px;
+}
+
+.navbar-header {
+  line-height: 1px;
+  margin: 0px
+  padding 0px;
+}
+
+.navbar-nav {
+  float: none;
+  display: inline-block;
+  font-family: 'Domine', serif;
+  text-transform: uppercase;
+}
+
+.nav.navbar-nav > li {
+  padding: 0px 25px;
+  font-size: 14px;
+}
+
 .page-header {
   font-family: font-family: 'Droid Serif', serif;
   text-align: center;
