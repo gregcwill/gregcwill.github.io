@@ -19,6 +19,20 @@
   line-height: 0px;
 }
 
+.navbar-form.navbar-right {
+  width: 0px;
+}
+
+.btn {
+  width: 0px;
+  padding: 0px;
+  font-size: 0px;
+}
+
+.btn-default {
+  width: 0px;
+}
+
 .navbar-header {
   line-height: 1px;
   margin: 0px
