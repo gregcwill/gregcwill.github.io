@@ -39,16 +39,18 @@
   padding 0px;
 }
 
-.navbar-nav {
+.nav.navbar-nav {
   float: none;
   display: inline-block;
   font-family: 'Domine', serif;
   text-transform: uppercase;
+  margin: 0px 0px 0px -125.5px;
 }
 
 .nav.navbar-nav > li {
   padding: 0px 25px;
   font-size: 14px;
+}
 }
 
 .page-header {
