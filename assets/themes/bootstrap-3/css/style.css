@@ -17,15 +17,17 @@
 .navbar.navbar-inverse {
   text-align: center;
   line-height: 0px;
-  margin:0px;
+  margin: auto;
+  width: 900px;
 }
 
 .nav.navbar-nav {
   float: none;
   display: inline-block;
-  font-family: 'Domine', serif;
+  font-family: 'Lora', serif;
   text-transform: uppercase;
-  margin: 0px 0px 0px -100.5px;
+  letter-spacing: 1px;
+  margin: 0px 0px 0px -110px;
 }
 
 .nav.navbar-nav > li {
@@ -35,37 +37,72 @@
 
 .jumbotron {
   height: 200px;
-  font-family: 'Domine', serif;
+  font-family: 'Lora', serif;
   font-size: 30px
   color: none;
   background-color: black;
 }
 
 .page-header {
-  font-family: font-family: 'Droid Serif', serif;
+  font-family: 'Domine', serif;
   text-align: center;
   text-transform: uppercase;
-  margin: -27px 0px 0px 8px;
-  padding: 0px;
+  margin: -27px 0px 0px 0px;
+  padding: 0px 0px 3px 0px;
 }
 
 /* Heading Colors */
 h1 {
-  font-family: 'Domine', serif;
-  color: #E2B570;
-  font-size: 30px;
-}
-
-h2, h3, h4 {
-  font-family: 'Montserrat', sans-serif;
-  text-transform: uppercase;
+  font-family: 'Lora', serif;
   color: #fff;
+  font-size: 28px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
 }
 
-body {
-  background: #3c3c3c;
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #E2B570;
+  font-size: 1.6em;
+  letter-spacing: -1.5px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #fff;
+  font-size: 1.1em;
+  letter-spacing: -1px;
+  text-transform: uppercase;
+}
+
+h4 {
+  font-family: 'Montserrat', sans-serif;
+  color: #fff;
+  font-size: 1em;
+}
+
+h2 > a {
+  color: #E2B570;
+  text-decoration: none;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
   font-size: 13px;
-  color: #e7e7e7;
+  color: #a7a7a7;
+  font-weight: -100;
+}
+
+#wrap {
+  background-color: black;
+}
+
+#primary {
+  margin: -30px auto;
+  padding-top: 25px;
+  background-color: #242424;
+  width:900px;
+  border-radius: 5px;
 }
 
 #footer {
@@ -73,10 +110,15 @@ body {
   color:#424242;
 }
 
+.page > .content {
+  padding-top: 50px;
+}
+
 /* posts index */
 .post > h3.title {
   position: relative;
-  padding-top: 10px; }
+  padding-top: 10px; 
+}
 
 .post > h3.title span.date {
   position: absolute;
