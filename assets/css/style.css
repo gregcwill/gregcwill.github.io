@@ -18,7 +18,7 @@
   text-align: center;
   line-height: 0px;
   margin: auto;
-  width: 900px;
+  max-width: 900px;
 }
 
 .nav.navbar-nav {
@@ -27,7 +27,7 @@
   font-family: 'Lora', serif;
   text-transform: uppercase;
   letter-spacing: 1px;
-  margin: 0px 0px 0px -110px;
+  margin: 0px 0px 0px 0px;
 }
 
 .nav.navbar-nav > li {
@@ -98,10 +98,10 @@ p {
 }
 
 #primary {
-  margin: -30px auto;
+  margin: -30px auto 30px;
   padding-top: 25px;
   background-color: #242424;
-  width:900px;
+  max-width:900px;
   border-radius: 5px;
 }
 
