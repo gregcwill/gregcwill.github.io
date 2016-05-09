@@ -4,7 +4,7 @@
  <title>Anonymous Coder</title>
  <link href="http://gregcwill.github.io/atom.xml" rel="self"/>
  <link href="http://gregcwill.github.io"/>
- <updated>2016-04-17T11:17:01-07:00</updated>
+ <updated>2016-05-08T21:29:58-07:00</updated>
  <id>http://gregcwill.github.io</id>
  <author>
    <name>Greg Williams</name>
@@ -455,6 +455,8 @@ dynamic components such as templates, partials, liquid code, markdown, etc. Jeky
 
 &lt;p&gt;This website is created with Jekyll. &lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/Sites&quot;&gt;Other Jekyll websites&lt;/a&gt;.&lt;/p&gt;
 
+&lt;!--more--&gt;
+
 &lt;h3 id=&quot;what-does-jekyll-do&quot;&gt;What does Jekyll Do?&lt;/h3&gt;
 
 &lt;p&gt;Jekyll is a ruby gem you install on your local system.
@@ -863,8 +865,7 @@ or jump right into &lt;a href=&quot;&quot;&gt;Usage&lt;/a&gt; if you’d like.&l
    <link href="http://gregcwill.github.io/lessons/2011/12/29/jekyll-introduction"/>
    <updated>2011-12-29T00:00:00-08:00</updated>
    <id>http://gregcwill.github.io/lessons/2011/12/29/jekyll-introduction</id>
-   <content type="html">
-&lt;p&gt;This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
+   <content type="html">&lt;p&gt;This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
 Directly following the intro we’ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
 
 &lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
@@ -877,6 +878,8 @@ dynamic components such as templates, partials, liquid code, markdown, etc. Jeky
 &lt;h3 id=&quot;examples&quot;&gt;Examples&lt;/h3&gt;
 
 &lt;p&gt;This website is created with Jekyll. &lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/Sites&quot;&gt;Other Jekyll websites&lt;/a&gt;.&lt;/p&gt;
+
+&lt;!--more--&gt;
 
 &lt;h3 id=&quot;what-does-jekyll-do&quot;&gt;What does Jekyll Do?&lt;/h3&gt;
 

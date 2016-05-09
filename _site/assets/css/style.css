@@ -98,7 +98,7 @@ p {
 }
 
 #primary {
-  margin: -30px auto;
+  margin: -30px auto 30px;
   padding-top: 25px;
   background-color: #242424;
   max-width:900px;
