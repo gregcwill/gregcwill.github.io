@@ -4,7 +4,7 @@
  <title>Anonymous Coder</title>
  <link href="http://gregcwill.github.io/atom.xml" rel="self"/>
  <link href="http://gregcwill.github.io"/>
- <updated>2016-05-08T21:29:58-07:00</updated>
+ <updated>2016-05-09T21:04:13-07:00</updated>
  <id>http://gregcwill.github.io</id>
  <author>
    <name>Greg Williams</name>
@@ -31,6 +31,8 @@ dynamic components such as templates, partials, liquid code, markdown, etc. Jeky
 &lt;h3 id=&quot;examples&quot;&gt;Examples&lt;/h3&gt;
 
 &lt;p&gt;This website is created with Jekyll. &lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/Sites&quot;&gt;Other Jekyll websites&lt;/a&gt;.&lt;/p&gt;
+
+&lt;!--more--&gt;
 
 &lt;h3 id=&quot;what-does-jekyll-do&quot;&gt;What does Jekyll Do?&lt;/h3&gt;
 

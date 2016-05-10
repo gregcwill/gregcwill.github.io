@@ -5,8 +5,8 @@
         <description>Anonymous Coder - Greg Williams</description>
         <link>http://gregcwill.github.io</link>
         <atom:link href="http://gregcwill.github.io/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 08 May 2016 21:29:58 -0700</lastBuildDate>
-        <pubDate>Sun, 08 May 2016 21:29:58 -0700</pubDate>
+        <lastBuildDate>Mon, 09 May 2016 21:04:13 -0700</lastBuildDate>
+        <pubDate>Mon, 09 May 2016 21:04:13 -0700</pubDate>
         <ttl>60</ttl>
 
 
@@ -26,6 +26,8 @@ dynamic components such as templates, partials, liquid code, markdown, etc. Jeky
 &lt;h3 id=&quot;examples&quot;&gt;Examples&lt;/h3&gt;
 
 &lt;p&gt;This website is created with Jekyll. &lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/Sites&quot;&gt;Other Jekyll websites&lt;/a&gt;.&lt;/p&gt;
+
+&lt;!--more--&gt;
 
 &lt;h3 id=&quot;what-does-jekyll-do&quot;&gt;What does Jekyll Do?&lt;/h3&gt;
 
