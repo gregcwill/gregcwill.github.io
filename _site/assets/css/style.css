@@ -51,6 +51,11 @@
   padding: 0px 0px 3px 0px;
 }
 
+.btn {
+	background-image: none;
+	background-color: #68c6ff;
+}
+
 /* Heading Colors */
 h1 {
   font-family: 'Lora', serif;
@@ -68,6 +73,7 @@ h2 {
   font-size: 1.8em;
   letter-spacing: -0.5px;
   text-transform: uppercase;
+  line-height: 45px;
 }
 
 h3 {
@@ -76,6 +82,7 @@ h3 {
   font-size: 1.2em;
   letter-spacing: -1px;
   text-transform: uppercase;
+  line-height: 10px;
 }
 
 h4 {
@@ -95,6 +102,16 @@ p {
   color: #a7a7a7;
 }
 
+aside {
+	margin-top: -15px;
+	margin-bottom: 25px;
+	color: #fff;
+}
+
+aside > span {
+	color: #68c6ff;
+}
+
 #wrap {
   background-color: black;
   margin-bottom: 0px;
@@ -111,10 +128,7 @@ p {
 #footer {
   background-color: #242424;
   color:#424242;
-}
-
-.page > .content {
-  padding-top: 50px;
+  font-size: 12px;
 }
 
 /* posts index */
@@ -126,7 +140,8 @@ p {
 .post > h3.title span.date {
   position: absolute;
   right: 0;
-  font-size: 0.9em; }
+  font-size: 0.9em; 
+}
 
 .post > .more {
   margin: 10px 0;
