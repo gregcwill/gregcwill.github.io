@@ -55,7 +55,7 @@ JB :
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
   #
-  BASE_PATH : http://gregcwill.github.io/assets
+  BASE_PATH : /
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
@@ -65,7 +65,7 @@ JB :
   #   http://s3.amazonaws.com/yoursite/themes/watermelon
   #   /assets
   #
-  ASSET_PATH : assets/
+  ASSET_PATH : /assets/
 
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.
@@ -76,10 +76,6 @@ JB :
   atom_path : /atom.xml
   rss_path : /rss.xml
 
-  # Setting for Post Preview
-  #
-  excerpt_separator : <!--more-->
-
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
@@ -87,7 +83,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : AC
+      short_name : Acoder
     livefyre :
       site_id : 123
     intensedebate :
@@ -98,7 +94,7 @@ JB :
       width: 580
       colorscheme: light
     duoshuo :
-      short_name : AC
+      short_name : Acoder
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
