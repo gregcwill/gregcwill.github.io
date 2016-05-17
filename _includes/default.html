@@ -47,7 +47,6 @@
   </head>
 
   <body>
-    <div id="wrap">
       <nav class="navbar navbar-inverse" role="navigation">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
@@ -66,42 +65,36 @@
             {% assign pages_list = site.pages %}
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
-          
-          <!-- Comment out Search Bar
           </ul>
-          <form class="navbar-form navbar-right" role="search">
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Search">
-            </div>
-            <button type="submit" class="btn btn-default">Submit</button>
-          </form>
+        </div>
+          <!-- Comment out search bar
+            <form class="navbar-form navbar-right" role="search">
+              <div class="form-group">
+                <input type="text" class="form-control" placeholder="Search">
+              </div>
+              <button type="submit" class="btn btn-default">Submit</button>
+            </form>
           End of Comment-out of Search Bar-->
-
-        </div><!-- /.navbar-collapse -->
+            <!-- /.navbar-collapse -->
       </nav>
  
       <div class="jumbotron text-center">
         <h1>Insert Jumbotron Image Here</h1>
       </div>
       
-      <div class="container" id="primary">
+      <div class="container primary">
         {{ content }}
       </div>
-
-    </div>
-
-    <div id="footer">
+      
+      <div id="footer">
           <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }} all rights reserved.
-        <!-- Bootstrap footer text
-          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-          and <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
-          -->
+            <!--Bootstrap footer text
+            with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
+            and <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
+            -->
           </p>
-    </div>
-
+      </div>
     {% include JB/analytics %}
-
-
     <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>

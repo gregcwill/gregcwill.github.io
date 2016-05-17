@@ -4,7 +4,7 @@
  <title>Anonymous Coder</title>
  <link href="http://gregcwill.github.io/atom.xml" rel="self"/>
  <link href="http://gregcwill.github.io"/>
- <updated>2016-05-14T09:42:38-07:00</updated>
+ <updated>2016-05-15T20:43:52-07:00</updated>
  <id>http://gregcwill.github.io</id>
  <author>
    <name>Greg Williams</name>
@@ -14,24 +14,24 @@
  
  <entry>
    <title>Thoughts On Coding Projects</title>
-   <link href="http://gregcwill.github.io/lessons/2015/02/06/Thoughts-on-coding-projects"/>
+   <link href="http://gregcwill.github.io/development/2015/02/06/Thoughts-on-Coding-Projects"/>
    <updated>2015-02-06T00:00:00-08:00</updated>
-   <id>http://gregcwill.github.io/lessons/2015/02/06/Thoughts-on-coding-projects</id>
+   <id>http://gregcwill.github.io/development/2015/02/06/Thoughts-on-Coding-Projects</id>
    <content type="html">&lt;p&gt;This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
 Directly following the intro we’ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
 
-&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
 
-&lt;h4 id=&quot;what-is-jekyll&quot;&gt;What is Jekyll?&lt;/h4&gt;
+&lt;h3 id=&quot;what-is-jekyll&quot;&gt;What is Jekyll?&lt;/h3&gt;
 
 &lt;p&gt;Jekyll is a parsing engine bundled as a ruby gem used to build static websites from
 dynamic components such as templates, partials, liquid code, markdown, etc. Jekyll is known as “a simple, blog aware, static site generator”.&lt;/p&gt;
 
-&lt;h4 id=&quot;examples&quot;&gt;Examples&lt;/h4&gt;
+&lt;h3 id=&quot;examples&quot;&gt;Examples&lt;/h3&gt;
 
 &lt;p&gt;This website is created with Jekyll. &lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/Sites&quot;&gt;Other Jekyll websites&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h4 id=&quot;what-does-jekyll-do&quot;&gt;What does Jekyll Do?&lt;/h4&gt;
+&lt;h3 id=&quot;what-does-jekyll-do&quot;&gt;What does Jekyll Do?&lt;/h3&gt;
 
 &lt;p&gt;Jekyll is a ruby gem you install on your local system.
 Once there you can call &lt;code&gt;jekyll --server&lt;/code&gt; on a directory and provided that directory
@@ -44,7 +44,7 @@ The intention here is that you can serve all contents in this folder statically 
 &lt;p&gt;You can think of Jekyll as a normalish dynamic blog but rather than parsing content, templates, and tags
 on each request, Jekyll does this once &lt;em&gt;beforehand&lt;/em&gt; and caches the &lt;em&gt;entire website&lt;/em&gt; in a folder for serving statically.&lt;/p&gt;
 
-&lt;h4 id=&quot;jekyll-is-not-blogging-software&quot;&gt;Jekyll is Not Blogging Software&lt;/h4&gt;
+&lt;h3 id=&quot;jekyll-is-not-blogging-software&quot;&gt;Jekyll is Not Blogging Software&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;Jekyll is a parsing engine.&lt;/strong&gt;&lt;/p&gt;
 
