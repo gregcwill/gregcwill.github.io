@@ -4,7 +4,7 @@
  <title>Anonymous Coder</title>
  <link href="http://gregcwill.github.io/atom.xml" rel="self"/>
  <link href="http://gregcwill.github.io"/>
- <updated>2016-05-15T20:43:52-07:00</updated>
+ <updated>2016-05-18T20:47:41-07:00</updated>
  <id>http://gregcwill.github.io</id>
  <author>
    <name>Greg Williams</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Thoughts On Coding Projects</title>
-   <link href="http://gregcwill.github.io/development/2015/02/06/Thoughts-on-Coding-Projects"/>
+   <link href="http://gregcwill.github.io/development/2015/02/06/Thoughts-on-coding-projects"/>
    <updated>2015-02-06T00:00:00-08:00</updated>
-   <id>http://gregcwill.github.io/development/2015/02/06/Thoughts-on-Coding-Projects</id>
+   <id>http://gregcwill.github.io/development/2015/02/06/Thoughts-on-coding-projects</id>
    <content type="html">&lt;p&gt;This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
 Directly following the intro we’ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
 

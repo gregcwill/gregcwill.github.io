@@ -47,7 +47,7 @@
   </head>
 
   <body>
-    <div class="wrap">
+    <div id="wrap">
       <nav class="navbar navbar-inverse" role="navigation">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
@@ -85,7 +85,8 @@
       <div class="primary">
         {{ content }}
       </div>
-      
+    </div>
+
       <div id="footer">
           <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }} all rights reserved.
             <!--Bootstrap footer text
@@ -94,7 +95,7 @@
             -->
           </p>
       </div>
-    </div>
+    
     {% include JB/analytics %}
     <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
     <!-- Placed at the end of the document so the pages load faster -->

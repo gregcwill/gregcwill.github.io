@@ -5,8 +5,8 @@
         <description>Anonymous Coder - Greg Williams</description>
         <link>http://gregcwill.github.io</link>
         <atom:link href="http://gregcwill.github.io/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 15 May 2016 20:43:52 -0700</lastBuildDate>
-        <pubDate>Sun, 15 May 2016 20:43:52 -0700</pubDate>
+        <lastBuildDate>Wed, 18 May 2016 20:47:41 -0700</lastBuildDate>
+        <pubDate>Wed, 18 May 2016 20:47:41 -0700</pubDate>
         <ttl>60</ttl>
 
 
@@ -427,8 +427,8 @@ As noted, our main programming constraint is the fact that our API is limited to
 &lt;p&gt;Please take a look at &lt;a href=&quot;&quot;&gt;&lt;/a&gt;
 or jump right into &lt;a href=&quot;&quot;&gt;Usage&lt;/a&gt; if you’d like.&lt;/p&gt;
 </description>
-                <link>http://gregcwill.github.io/development/2015/02/06/Thoughts-on-Coding-Projects</link>
-                <guid>http://gregcwill.github.io/development/2015/02/06/Thoughts-on-Coding-Projects</guid>
+                <link>http://gregcwill.github.io/development/2015/02/06/Thoughts-on-coding-projects</link>
+                <guid>http://gregcwill.github.io/development/2015/02/06/Thoughts-on-coding-projects</guid>
                 <pubDate>Fri, 06 Feb 2015 00:00:00 -0800</pubDate>
         </item>
 
