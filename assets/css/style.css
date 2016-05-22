@@ -88,7 +88,7 @@ img {
 }
 
 .jumbotron.About {
-  background-image: url(images/about.jpg);
+  background-image: url(images/about.JPG);
   background-position: top;
   filter: grayscale(40%);
 }
