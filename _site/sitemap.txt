@@ -1,0 +1,13 @@
+
+http://gregcwill.github.io/about
+http://gregcwill.github.io/archive
+http://gregcwill.github.io/atom.xml
+http://gregcwill.github.io/categories
+http://gregcwill.github.io/
+http://gregcwill.github.io/pages
+http://gregcwill.github.io/rss.xml
+http://gregcwill.github.io/sitemap.txt
+
+http://gregcwill.github.io/development/2016/05/22/7-Reasons-Aspiring-Programmers-Should-Use-Jekyll
+http://gregcwill.github.io/development/2015/02/06/Thoughts-on-coding-projects
+http://gregcwill.github.io/lessons/2015/01/01/happy-new-year!

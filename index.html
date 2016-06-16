@@ -1,1 +1,10 @@
-My Page
+---
+layout: page
+title: Weblog
+header: Weblog
+---
+<ul class="posts">
+	{% for post in site.posts %}
+	{% include tile.html %}
+	{% endfor %}	
+</ul>
